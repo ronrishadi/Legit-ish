@@ -12,6 +12,7 @@
 
 # Usage
 Press L in-game to open the ClickGUI. 
+To unbind a module press zero
 
 ## ⚠ Some features may be buggy/not work, so issues would be appreciated!
 
